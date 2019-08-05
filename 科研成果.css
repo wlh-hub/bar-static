@@ -1,0 +1,16 @@
+		.container{
+			font-family: happyfont;
+		}
+		#container{
+			font-family: happyfont;
+		}
+		.container img{
+			width:150px;
+			height:150px;
+			margin-left: 950px;
+			margin-top: -100px;
+		}
+		#navli li{
+			padding-left:120px;
+			font-size:22px;
+		}
